@@ -1,0 +1,27 @@
+body {
+    color: white;
+    text-align: center;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 40px;
+    background: url('Background.jpg') ;
+    background-size: cover;
+}
+
+h1 {
+ 
+    color: black;
+}
+
+h2 {
+
+    color: black;
+}
+
+.myDreams, .education, .childhood {
+    margin: 20px;
+    padding: 15px;
+    background-color: grey;
+    border-radius: 10px;
+}
+
